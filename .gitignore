@@ -1,3 +1,13 @@
+node_modules
+.next
+.vercel
+dist
+out
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
 # Comprehensive .gitignore template for AI-generated projects
 # Covers most common languages, frameworks, and tools
 
